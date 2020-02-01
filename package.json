@@ -1,6 +1,6 @@
 {
   "name": "at-least-node",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lightweight Node.js version sniffing/comparison",
   "keywords": [
     "semver",
