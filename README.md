@@ -22,4 +22,4 @@ When passing in a version string:
 - You cannot include a leading `v` (i.e. `v10.12.0`)
 - You cannot omit sections (i.e. `10.12`)
 - You cannot use pre-releases (i.e. `1.0.0-beta`)
-- There is no input validation, if you make a mistake, the resulting behavior is undefined
+- There is no input validation, if you make a mistake, the resulting behavior is indeterminate
